@@ -4,11 +4,10 @@ package edu.wit.cs.comp1000;
  * Jasper Mayone <mayonej@wit.edu>
  * W00433490
  * 
- * Solution to PA2a
+ * Solution to PA2b
  * 
  */
 public class PA2b {
-
 	/** 
 	 * Takes in 
 	 * and computes 
