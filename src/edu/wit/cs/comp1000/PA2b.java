@@ -1,11 +1,21 @@
 package edu.wit.cs.comp1000;
 
-// TODO: document this class
+/**
+ * Jasper Mayone <mayonej@wit.edu>
+ * W00433490
+ * 
+ * Solution to PA2a
+ * 
+ */
 public class PA2b {
 
-	// TODO: document this function
+	/** 
+	 * Takes in 
+	 * and computes 
+	 * @param args Not used
+	 */
 	public static void main(String[] args) {
-		// TODO: write your code here
+		
 	}
 
 }
