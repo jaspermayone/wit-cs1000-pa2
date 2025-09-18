@@ -11,9 +11,13 @@ import java.util.Arrays;
  * 
  */
 public class PA2a {
-	/** 
-	 * Takes in 
-	 * and computes 
+	/**
+	 * Takes five whole numbers from standard input, then computes and prints:
+	 * - count and sum of positive numbers
+	 * - count and sum of non-positive numbers (zero or negative)
+	 * - total sum of all numbers
+	 * - average of positive numbers, non-positive numbers, and all numbers
+	 * Outputs are formatted with appropriate pluralization and fixed decimal places.
 	 * @param args Not used
 	 */
 	public static void main(String[] args) {
